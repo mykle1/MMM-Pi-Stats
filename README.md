@@ -34,12 +34,12 @@ Coming soon!
            disabled: false,
            module: 'MMM-Pi-Stats',
            position: 'top_left',
-	   config: {
-		useHeader: true,           // true if you want a header. header = false means less load    
-        	header: "MMM-Pi-Stats",    // Any text you want. useHeader must be true
-        	maxWidth: "300px",
-        	animationSpeed: 0,         // 0 = no fade in and out. Only CPU load and Free RAM usage changes.
-		updateInterval: 15 * 1000, // How often the CPU and Free RAM is checked for load and usage.
+	       config: {
+		   useHeader: true,           // true if you want a header. header = false means less load    
+        	   header: "MMM-Pi-Stats",    // Any text you want. useHeader must be true
+        	   maxWidth: "300px",
+        	   animationSpeed: 0,         // 0 = no fade in and out. Only CPU load and Free RAM usage changes.
+		   updateInterval: 15 * 1000, // How often the CPU and Free RAM is checked for load and usage.
 	}
     },
 	
