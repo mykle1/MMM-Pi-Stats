@@ -17,7 +17,7 @@ RAM and Free Ram, and identifies the CPU and the CPU load by percentage.
 
 ## Examples
 
-Coming soon!
+![](images/1.PNG)
 
 ![](images/1.PNG) ![](images/2.PNG)
 
