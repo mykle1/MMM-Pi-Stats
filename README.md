@@ -19,8 +19,6 @@ RAM and Free Ram, and identifies the CPU and the CPU load by percentage.
 
 ![](images/1.PNG)
 
-![](images/1.PNG) ![](images/2.PNG)
-
 ## Installation
 
 * `git clone https://github.com/mykle1/MMM-Pi-Stats` into the `~/MagicMirror/modules` directory.
